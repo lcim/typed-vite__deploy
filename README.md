@@ -1,3 +1,7 @@
+# Introduction
+
+This is ready made template for deploying react typescript projects using Vite and GitHub Actions. Your page rebuilds each time you push some codes to yhis GitHub repository.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
